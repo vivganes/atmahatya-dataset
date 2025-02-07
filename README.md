@@ -1,8 +1,8 @@
-# Atmahatya Dataset (2002-2022)
+# Atmahatya Dataset (2003-2022)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-- [Atmahatya Dataset (2002-2022)](#atmahatya-dataset-2002-2022)
+- [Atmahatya Dataset (2003-2022)](#atmahatya-dataset-2003-2022)
   - [Citation](#citation)
   - [Description](#description)
   - [Important note](#important-note)
@@ -18,7 +18,7 @@ This is a dataset (in SQLite DB format) that contains the extract of data publis
 ```
 @misc{vivganes_2025_atmahatya,
   author = {Vivek Ganesan<@vivek_ganesan>, Useless Millenial<@ricebagguy>},
-  title = {{Atmahatya Dataset (2002-22)}},
+  title = {{Atmahatya Dataset (2003-22)}},
   howpublished = {\url{https://github.com/vivganes/atmahatya-dataset}},
   note = {Accessed: yyyy-mm-dd}
   year = 2025
