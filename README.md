@@ -136,3 +136,8 @@ sqlite> .exit
 Big shout out to [Useless Millenial](https://x.com/ricebagguy) for their valuable contributions in extracting, verifying and packaging the data.
 
 #JusticeIsDue
+
+
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
